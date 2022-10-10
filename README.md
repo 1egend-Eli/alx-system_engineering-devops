@@ -1,2 +1,1 @@
-Solutions to various shell tasks
-contains solutions to shell permissions ttasks also.
+Solutions to various shell tasks required in alx.
